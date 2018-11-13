@@ -1,0 +1,15 @@
+{
+  "name": "sqlite-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Chhavi Kohli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sqlite3": "^4.0.2"
+  }
+}
